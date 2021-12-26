@@ -1,0 +1,23 @@
+{
+    "C_Cpp.default.cppStandard": "c++17",
+    "C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: Google, IndentWidth: 4 }",
+    "[cpp]": {
+        "editor.tabSize": 4,
+        "editor.formatOnSave": true,
+        // "editor.formatOnType": true,
+    },
+    "editor.formatOnSave": true,
+    "files.associations": {
+        "*.cpp": "cpp",
+        "__tree": "cpp",
+        "bitset": "cpp",
+        "set": "cpp"
+    },
+    "files.exclude": {
+        "target": true, // "target" in root folder
+        "z_playground/target": true, // "target" in root folder
+        "**/Cargo.lock": true,
+        "competitive-programming.code-workspace": true,
+    },
+    "editor.bracketPairColorization.enabled": true
+}
