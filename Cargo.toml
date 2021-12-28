@@ -8,10 +8,10 @@ edition = "2018"
 [workspace]
 members = [
     "z_playground",
-    "library/rust_libs"
+    "Library/rust_libs"
 ]
 exclude = [
-    "library/tools/code_runner/runner_rs"
+    "Library/tools/code_runner/runner_rs"
 ]
 
 [[bin]]
