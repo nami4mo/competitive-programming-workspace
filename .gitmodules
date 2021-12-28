@@ -1,6 +1,6 @@
-[submodule "Library"]
-	path = Library
-	url = https://github.com/nami4mo/competitive-programming-library
 [submodule "Solutions"]
 	path = Solutions
 	url = https://github.com/nami4mo/competitive-programming-problems
+[submodule "Library"]
+	path = Library
+	url = https://github.com/nami4mo/competitive-programming-library
