@@ -8,7 +8,8 @@ edition = "2018"
 [workspace]
 members = [
     "z_playground",
-    "Library/rust_libs"
+    "Library/rust_libs",
+    "Solutions/heu_contest/ahc008"
 ]
 exclude = [
     "Library/tools/code_runner/runner_rs"

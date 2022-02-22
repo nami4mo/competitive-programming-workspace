@@ -13,6 +13,7 @@
 			"queue": "cpp",
 			"stack": "cpp"
 		},
-		"editor.bracketPairColorization.enabled": true
+		"editor.bracketPairColorization.enabled": true,
+		"editor.formatOnSave": true
 	}
 }

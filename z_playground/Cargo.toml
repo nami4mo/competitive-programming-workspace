@@ -8,6 +8,14 @@ edition = "2018"
 name = "tmp"
 path = "tmp.rs"
 
+[[bin]]
+name = "tmp2"
+path = "tmp2.rs"
+
+[[bin]]
+name = "tmp3"
+path = "tmp3.rs"
+
 [dependencies]
 competitive-programming = { path = "../" }
 num = "0.2.1"

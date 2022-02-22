@@ -1,5 +1,6 @@
 target/
 Cargo.lock
-tmp.py
+tmp*.py
 tmp*.rs
 .DS_Store
+joya/
