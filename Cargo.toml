@@ -17,7 +17,7 @@ exclude = [
 
 [[bin]]
 name = "tmp"
-path = "./z_playground/tmp.rs"
+path = "./z_playground/src/tmp.rs"
 
 
 [dependencies]
