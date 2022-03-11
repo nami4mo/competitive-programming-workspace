@@ -6,3 +6,5 @@ tmp*.rs
 joya/
 
 /Icon*
+/atcoder
+/ac-library-rs

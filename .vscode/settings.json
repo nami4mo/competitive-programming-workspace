@@ -8,10 +8,13 @@
     },
     "editor.formatOnSave": true,
     "files.associations": {
+        "*.ormf": "json",
         "*.cpp": "cpp",
         "__tree": "cpp",
         "bitset": "cpp",
-        "set": "cpp"
+        "set": "cpp",
+        "algorithm": "cpp",
+        "random": "cpp"
     },
     "files.exclude": {
         "target": true, // "target" in root folder
