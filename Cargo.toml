@@ -9,7 +9,8 @@ edition = "2018"
 members = [
     "z_playground",
     "Library/rust_libs",
-    "Solutions/heu_contest/ahc008"
+    # "Solutions/heu_contest/ahc009"
+    ## please add active AHC workspaces
 ]
 exclude = [
     "Library/tools/code_runner/runner_rs"
